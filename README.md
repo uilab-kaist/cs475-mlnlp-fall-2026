@@ -68,7 +68,7 @@ All deadlines are 23:59:59 unless specified.
 |    6 | 2026.10.06 | Project Proposal                           | Zoom (Online) | Proposal Presentation| 
 |    6 | 2026.10.08 | Project Proposal                           | Zoom (Online) | Proposal Presentation| 
 |    7 | 2026.10.13 | No Class                                   | No Class      |                     |
-|    7 | 2026.10.15 | Interpretability                           |               |                     |
+|    7 | 2026.10.15 | Post-traning                               |               |                     |
 |    8 | 2026.10.20 | Midterm                                    | No Class      |                     |
 |    8 | 2026.10.22 | Midterm                                    | No Class      |                     |
 |    9 | 2026.10.27 | Masked Language Models                     |               |                     |
