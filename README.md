@@ -45,7 +45,7 @@ This course will cover advanced and state-of-the-art machine learning for text d
 
 ## Materials
 
-- Recent NLP papers (especially from ACL, EMNLP, NAACL)
+- Recent NLP papers (especially from ACL, EMNLP, NAACL, COLM)
 - Recent ML papers (AAAI, ICML, IJCAI, NeurIPS, etc)
 - [Dan Jurafsky & James H. Martin, Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 
