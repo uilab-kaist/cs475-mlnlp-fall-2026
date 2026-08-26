@@ -100,7 +100,7 @@ Because the quizzes are unannounced, there will generally be no make-up quizzes 
 
 ## Team Projects
 - You will form teams of *four*, and as a team, pick one paper from the given paper list and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
-- Please refer to [this link](https://uilab-kaist.github.io/cs475-mlnlp-2026/project) for the details.
+- Please refer to [this link](https://uilab-kaist.github.io/cs475-mlnlp-fall-2026/project) for the details.
 
 ## Evaluation
 Your grade will be a combination of the following:
