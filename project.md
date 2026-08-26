@@ -160,20 +160,15 @@ The final presentation should cover the same core content as the report, present
 
 The final report should include the following:
 
-- **Abstract**:
-  - Summary of your research question, approach, and main findings
+- **Abstract**: Summary of your research question, approach, and main findings
 
-- **Introduction**:
-  - Background, motivation, and research question
+- **Introduction**: Background, motivation, and research question
 
-- **Related Work**:
-  - Relevant prior work and the relationship between your project and the baseline paper
+- **Related Work**: Relevant prior work and the relationship between your project and the baseline paper
 
-- **Approach**:
-  - Your proposed approach, modification, extension, or analysis
+- **Approach**: Your proposed approach, modification, extension, or analysis
 
-- **Data & Experiments**:
-  - Dataset(s), models, experimental setup, evaluation metrics, and comparison methods
+- **Data & Experiments**: Dataset(s), models, experimental setup, evaluation metrics, and comparison methods
 
 - **Results**:
   - Results from the baseline methods or experiments
@@ -186,11 +181,9 @@ The final report should include the following:
   - How do your findings extend, challenge, or complement the baseline paper?
   - What are the limitations of your project?
 
-- **Conclusion**:
-  - Summary of the main findings and implications
+- **Conclusion**: Summary of the main findings and implications
 
-- **References**:
-  - Unlimited pages
+- **References**: Unlimited pages
 
 
 ## Peer Grading
