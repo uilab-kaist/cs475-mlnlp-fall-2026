@@ -11,7 +11,7 @@
 - Week 3 (Sep 15): **Team Signup Due**
 - Week 5 (Oct 01): **Paper Selection Due**
 - Week 6 (Oct 6, Oct 8): **Project Proposal Presentations & Peer Grading**
-- Progress Presentation: **TBD**
+- Week 11 (Nov 12): **Upload Progress Presentation**
 - Week 15 (Dec 08, Dec 10): **Final Presentations & Peer Grading**
 - Week 16 (Dec 20, 23:59): **Final Report & Teamwork Report Due**
 
