@@ -69,6 +69,18 @@ Give a **5-8 minute proposal presentation** that includes the following:
 - **Data**: Describe the dataset you will use, even if it is the same one as in the replication paper. If the replication paper does not work with openly available data, explain how you will gather your own data. If using openly available data but you will work with a subset of the data, explain why and how you will select the subset.
 - **Plan**: Explain a week-by-week plan of completing this project, clearly indicating which tasks will be done by which team member and which tasks will be done together.
 
+## Progress Presentation
+Upload **7-10 minute progress presentation video** that includes the following:
+- **Introduction**: Please briefly explain your problem, approach, and dataset.
+- **Paper Analysis and Preliminary Findings**:
+  - Describe the baseline methods or experiments you have implemented or evaluated so far, including the experimental setup and preliminary results.
+  - Analyze what you learned from these results, including any limitations, unexpected findings, or opportunities for improvement.
+  - If some experiments are still in progress, present the results you have so far and a concrete plan for completing the remaining work.
+- **Project Direction**:
+  - Based on your preliminary findings, explain how you plan to extend, improve, or modify the original work.
+  - Clearly motivate why your proposed modification is meaningful and what hypothesis or research question you plan to investigate.
+  - Describe the concrete experiments you will conduct for the final project.
+  
 
 ## Final Presentation & Final Report
 Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited references) report** in ACL format. Below is the structure of the final report. The final presentation should contain the same content but in a presentation style.
