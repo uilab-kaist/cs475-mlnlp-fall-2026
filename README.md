@@ -76,10 +76,10 @@ All deadlines are 23:59:59 unless specified.
 |   10 | 2026.11.03 | Information Retrieval and RAG              |               |                     |
 |   10 | 2026.11.05 | Machine Translation                        |               |                     |
 |   11 | 2026.11.10 | RNNs and LSTMs                             |               |                     |
-|   11 | 2026.11.12 | Phonetics and Speech Feature Extraction    |               |                     |
-|   12 | 2026.11.17 | Automatic Speech Recognition               |               |                     |
-|   12 | 2026.11.19 | Phonetics and Speech Feature Extraction    |               |                     |
-|   13 | 2026.11.24 | Automatic Speech Recognition               |               |                     |
+|   11 | 2026.11.12 | Project Progress                           |               | Upload Progress Video|
+|   12 | 2026.11.17 | Phonetics and Speech Feature Extraction    |               |                     |
+|   12 | 2026.11.19 | Automatic Speech Recognition               |               |                     |
+|   13 | 2026.11.24 | Guest Lecture / Tutorial                   |               |                     |
 |   13 | 2026.11.26 | Undergraduate Admissions                   | No Class      |                     |
 |   14 | 2026.12.01 | Wrap-up                                    |               |                     |
 |   14 | 2026.12.03 | Wrap-up                                    |               |                     |
