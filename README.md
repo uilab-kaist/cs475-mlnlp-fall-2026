@@ -16,6 +16,7 @@
 </details>
 
 ## Useful Links
+- [Slack Channel Invite](https://join.slack.com/t/mlnlp-26-f/shared_invite/zt-488ssz93m-nDI7Lv2DZW3exTQy7qnvNA)
 - [Zoom](https://kaist.zoom.us/my/aliceatkaist)
 - [Google Drive](https://drive.google.com/drive/folders/187-1yaXVp6-UJxJHU5IiTaM3l7mglLQ5?usp=sharing)
 
