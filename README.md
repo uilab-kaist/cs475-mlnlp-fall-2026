@@ -93,8 +93,7 @@ All deadlines are 23:59:59 unless specified.
 - Quiz questions may assess concepts or problems related to previous homework assignments. If your quiz performance indicates that you do not understand material that you correctly submitted in your homework, the teaching staff may re-evaluate and reduce the score of the corresponding homework assignment.
 
 ## Attendance and Participation
-- Attendance will not be checked separately. However, unannounced in-class quizzes will be given approximately 6 times during the semester. If you are absent on a quiz day, you will not receive credit for that quiz.
-Because the quizzes are unannounced, there will generally be no make-up quizzes for absences. Exceptions may be considered only in special circumstances, such as prolonged illness, in which case you should contact the teaching staff.
+- Attendance will not be checked separately. However, unannounced in-class quizzes will be given approximately 12 times during the semester. If you are absent on a quiz day, you will not receive credit for that quiz, but 2 lowest scores will be dropped so you can skip 2 classes. We will not accept additional “excused absences” unless you have an exceptional case (e.g., prolonged sickness, more than 1-week emergency)
 
 ## Team Projects
 - You will form teams of *four*, and as a team, pick one paper from the given paper list and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
@@ -107,9 +106,9 @@ Your grade will be a combination of the following:
   - 2 homework assignments (10% each)
 
 - **Quiz: 30%**
-  - 6 unannounced written in-class quizzes (5% each)
+  - 12 unannounced written in-class quizzes (2.5% each), 2 lowest scores will be dropped
+  - So you can skip 2 classes; we will not accept additional “excused absences” unless you have an exceptional case (e.g., prolonged sickness, more than 1-week emergency)
   - Each quiz covers material from the previous classes and homework
-  - 5 written questions per quiz, consisting of short-answer and multiple-choice questions
 
 - **Team Project: 50%**
   - Proposal: 5%
