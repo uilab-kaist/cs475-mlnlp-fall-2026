@@ -59,7 +59,7 @@ All deadlines are 23:59:59 unless specified.
 |    3 | 2026.09.17 | Embeddings                                 |               |                     |
 |    4 | 2026.09.22 | Neural Networks                            |               |                     |
 |    4 | 2026.09.24 | Holiday                                    | No Class      |                     |
-|    5 | 2026.09.29 | Transformers and Pretraining (1)           |               |                     |
+|    5 | 2026.09.29 | Transformers and Pretraining (1)           | Zoom (Online) |                     |
 |    5 | 2026.10.01 | Transformers and Pretraining (2)           |               | Paper Selection     |
 |    6 | 2026.10.06 | Project Proposal                           | Zoom (Online) | Proposal Presentation| 
 |    6 | 2026.10.08 | Project Proposal                           | Zoom (Online) | Proposal Presentation| 
