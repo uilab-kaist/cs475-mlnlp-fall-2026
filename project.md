@@ -9,7 +9,7 @@
   - Peer grading will be conducted **in real time during class**.
 
 - Week 3 (Sep 15): **Team Signup Due** | [Sign-up Google Form](https://forms.gle/vE2hwzCq3F15fDBr5)
-- Week 5 (Oct 01): **Paper Selection Due**
+- Week 5 (Oct 01): **Paper Selection Due** | [Paper List](https://docs.google.com/spreadsheets/d/1fr8oIbnmgMcGHFknpnlRv0UlA7z75tJd0b6MnniMlWk/edit?usp=sharing)
 - Week 6 (Oct 6, Oct 8): **Project Proposal Presentations & Peer Grading**
 - Week 11 (Nov 12): **Upload Progress Presentation**
 - Week 15 (Dec 08, Dec 10): **Final Presentations & Peer Grading**
