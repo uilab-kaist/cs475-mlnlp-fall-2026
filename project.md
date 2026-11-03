@@ -11,7 +11,7 @@
 - Week 3 (Sep 15): **Team Signup Due** | [Sign-up Google Form](https://forms.gle/vE2hwzCq3F15fDBr5)
 - Week 5 (Oct 01): **Paper Selection Due** | [Paper List](https://docs.google.com/spreadsheets/d/1fr8oIbnmgMcGHFknpnlRv0UlA7z75tJd0b6MnniMlWk/edit?usp=sharing)
 - Week 6 (Oct 6, Oct 8): **Project Proposal Presentations & Peer Grading** [Proposal Slides](https://drive.google.com/drive/folders/1zL85TOfoJaSWgUeCtkXR7kc3c5zLctI9?usp=drive_link) [Peer Grading Form](https://forms.gle/M3JFQ4Q3ezy9C6zr9)
-- Week 11 (Nov 12): **Upload Progress Presentation**
+- Week 11 (Nov 12): **Upload Progress Presentation** [Progress Video](https://drive.google.com/drive/folders/1QBXorjgrxRQHdogFBsW9AcwXbxzUNphh?usp=sharing)
 - Week 15 (Dec 08, Dec 10): **Final Presentations & Peer Grading**
 - Week 16 (Dec 20, 23:59): **Final Report & Teamwork Report Due**
 
