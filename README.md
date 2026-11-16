@@ -73,11 +73,11 @@ All deadlines are 23:59:59 unless specified.
 |   10 | 2026.11.05 | Evaluation (2)                             |               |                      |
 |   11 | 2026.11.10 | Reasoning                                  | Zoom (Online) |                      |
 |   11 | 2026.11.12 | Agents                                     | Zoom (Online) | Upload Progress Video|
-|   12 | 2026.11.17 | Multilinguality                            |               |                      |
-|   12 | 2026.11.19 | Machine translation                        |               |                      |
-|   13 | 2026.11.24 | Multimodality                              |               |                      |
-|   14 | 2026.12.01 | Ethics & Social impact                     |               |                     |
-|   14 | 2026.12.03 | Wrap-up                                    |               |                     |
+|   12 | 2026.11.17 | No Class                                   |               |                      |
+|   12 | 2026.11.19 | Multilinguality                            |               |                      |
+|   13 | 2026.11.24 | Machine translation                        |               |                      |
+|   14 | 2026.12.01 | Multimodality                              |               |                     |
+|   14 | 2026.12.03 | Ethics & Social impact                     |               |                     |
 |   15 | 2026.12.08 | Final Presentation                         | Zoom (Online) | Final Presentation  |
 |   15 | 2026.12.10 | Final Presentation                         | Zoom (Online) | Final Presentation  |
 |   16 | 2026.12.15 | Final Exam                                 | No Class      |                     |
